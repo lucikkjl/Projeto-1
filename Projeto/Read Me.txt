@@ -1,0 +1,13 @@
+# API REST com Sequelize, MySQL, bcrypt e JWT
+
+## O que você precisa
+
+- Node.js instalado no seu computador.
+- MySQL (pode usar XAMPP ou outro servidor local).
+
+## Como instalar e rodar o projeto
+
+1. **Clone o repositório**:
+   Primeiro, você precisa copiar o projeto para o seu computador. Para isso, use o comando:
+   ```bash
+   git clone https://github.com/seu-usuario/api-rest-mysql.git
